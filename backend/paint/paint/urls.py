@@ -9,7 +9,7 @@ schema_view = get_schema_view(
     openapi.Info(
         title="PAINTED POSTER API",
         default_version="v1",
-        description="Test description",
+        description="This project uses MONGO DB and it serves API Endpoints to access painted cards available in database.",
         terms_of_service="https://www.google.com/policies/terms/",
         contact=openapi.Contact(email="contact@snippets.local"),
         license=openapi.License(name="BSD License"),
